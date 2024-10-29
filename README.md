@@ -14,8 +14,8 @@ If you don't want to start from scratch simply get the Mattercraft Project from 
 |**WebXR / Mattercraft Demos**|
 |:-:|
 |Puzzle #1|
-|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/Puzzle_1.gif" width="560">|
+|<img src="https://github.com/dilmerv/PuzzlingSpaceMRGame/blob/master/Docs/images/Puzzle_1.gif" width="560">|
 |Puzzle #2|
-|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/Puzzle_2.gif" width="560">|
+|<img src="https://github.com/dilmerv/PuzzlingSpaceMRGame/blob/master/Docs/images/Puzzle_2.gif" width="560">|
 |Puzzle #3|
-|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/Puzzle_3.gif" width="560">|
+|<img src="https://github.com/dilmerv/PuzzlingSpaceMRGame/blob/master/Docs/images/Puzzle_3.gif" width="560">|
